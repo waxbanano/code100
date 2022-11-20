@@ -76,7 +76,7 @@ print("""Your Full Name \nToday's Date""")
 
 # 3. On the next line add I am feeling with an emoji of your choice to illustrate how you're feeling about the challenge. HINT - When using Unicode with Python, replace "+" with "000" from the Unicode. And then prefix the Unicode with "\". For example- U+1F913 will be used as \U0001F913. Here, "+" is replaced with "000" and "\" is prefixed with the Unicode.
 # 3.
-print("I am feeling smart! \U0001F913")
+print("I am feeling very smart! \U0001F913")
 
 # 4.Add one more line to your output You can follow my progress at replit.com/@ and add in your Replit username. This will be a great way of maintaining accountability for yourself!
 
