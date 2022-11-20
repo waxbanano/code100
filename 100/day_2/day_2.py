@@ -132,7 +132,7 @@
 
 
 # I WANTED TO DO TODAYS CHALLENGE IN SPANISH SINCE I AM LEARNING BOTH!
-user_name = input("¿Cuál es su nombre? ")
+user_name = input("¿Cuál es tu nombre? ")
 print("Hola")
 print(user_name)
 print()
