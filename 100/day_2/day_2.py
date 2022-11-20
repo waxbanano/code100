@@ -1,6 +1,6 @@
 #Day 2 of 100 days of Python coding
 
-#Input - input() is when the user gives information to the computer.
+#INPUT - input() is when the user gives information to the computer.
 # It's very similar to the print command, except that it'll show the message in the console then wait until the user has typed something into the console and pressed enter.
 #input=("whats your name?: ")
 
@@ -10,7 +10,7 @@
 # replit = input("Do you like replit?")
 # print("OF COURSE YOU DO!")
 
-#Variable - a variable is a value that we can use to name and store data.
+#VARIABLE - a variable is a value that we can use to name and store data.
 #varName = input("Name >")
 #underscores_between_words
 #camelCaseToMakeItEasierToRead
