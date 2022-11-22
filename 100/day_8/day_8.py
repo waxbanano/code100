@@ -97,3 +97,36 @@ else:
 #    print(name, "it's FRIDAY!")
 # else:
 #  print("I do not know your name, but I hope you are having a great day!")
+
+#EXTRA EXTRA
+
+# print("Wholesome Positivity Machine")
+# print("\n")
+# name = input("Who are you?" )
+# achieve = input("What do you want to achieve? ")
+# feel = input("On a scale of 1-10 how do you feel today? (1 = worst, 10 = best ")
+
+# if feel == "1":
+#   print("Hang in there",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+# elif feel == "2":
+#   print("Hang in there",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+# elif feel == "3":
+#   print("You are doing great",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK") 
+# elif feel == "4":
+#   print("Life happens",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+# elif feel == "5":
+#   print("Things are good",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+# elif feel == "6":
+#   print("",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+# elif feel == "7":
+#   print("Hang in there",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+# elif feel == "8":
+#   print("Hang in there",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+# elif feel == "9":
+#   print("Excellent work",name+"!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+# elif feel == "10":
+#   print("LETS GO",name+"!!!","Today you're going to",achieve,"simply by being you - YOU ROCK")
+
+# else:
+#   print("hmmm")
+
