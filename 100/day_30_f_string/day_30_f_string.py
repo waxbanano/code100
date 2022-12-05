@@ -142,3 +142,15 @@
 # print using an f-string.
 # Think about what symbol you need for center alignment. How many spaces should you move your statement?
 # Think about the length of the heading. Maybe that's how many spaces you would need to center align the text.
+
+#REPLIT SOLUTION
+
+print("30 Days Down - What did you think?")
+print()
+for i in range(1, 31):
+  thought = input(f"Day {i}:\n")
+  print()
+  myText = f"You thought Day {i} was"
+  print(f"{myText:^35}")
+  print(f"{thought:^35}")
+  print()
